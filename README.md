@@ -85,7 +85,7 @@ Some kind of database could be useful for aggregating the data. MySQL/Postgresql
 For given day like 2021-04-12T11:10:06
 
 * How many orders and vaccines have arrived total?
-* How many vaccinations have used?
+* How many of the vaccinations have been used?
 * How many orders/vaccines per producer?
 * How many bottles have expired on the given day (remember a bottle expires 30 days after arrival)
 * How many vaccines expired before the usage -> remember to decrease used injections from the expired bottle
